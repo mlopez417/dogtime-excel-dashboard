@@ -4,6 +4,9 @@
 
 - The project aimed to address the challenge of efficiently organizing and utilizing data from dogtime.com to assist visitors or dog enthusiasts in narrowing down their dog options based on specific criteria.
 
+### Results
+- The dashboard provides a comprehensive and interactive experience for dog enthusiasts. It offers a customized mini-profile of the top dog, dynamically generated based on a selection from a range of pre-made profiles or user-defined traits. It showcases valuable insights and data-driven information to help new or experienced dog owners make informed decisions and gain a deeper understanding of various dog breeds and their characteristics.
+
 ![Dashboard](https://i.postimg.cc/fLBRpLPp/dashboard1.png)
 
 - An interactive Excel dashboard was developed as a comprehensive tool to streamline the process of exploring dog breeds. By consolidating data from dogtime.com, the dashboard provides users with the ability to refine their options using either pre-defined lifestyle profiles or customized profiles they could modify. This eliminates the need for manual note-taking and comparison of various dog breeds across multiple webpages.
